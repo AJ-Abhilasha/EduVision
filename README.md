@@ -133,9 +133,3 @@ outputs/
 - [Gradio](https://www.gradio.app/) – Interactive web app
 - [Mermaid.js](https://mermaid-js.github.io/) – Diagram rendering
 
----
-
-
-
-# EduVision
-# EduVision
